@@ -1,5 +1,5 @@
 - 👋 我是 半程客梦
-- 👀 热衷于 网络安全、软件开发( Java | Python | Go | C/C++)
+- 👀 热衷于 网络安全、软件开发( Java | Python | Go | C/C++ | RUST | Node | Type/JavaScript)
 - 🌱 最近在学 Web3
 - 📫 欢迎微信交流 banc000
 
