@@ -3,7 +3,7 @@
 - 🌱 最近在学 Web3
 - 📫 欢迎微信交流 banc000
 
-<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=banchengkemeng&show_icons=true&hide_border=false" />
+<img align="left" width="60%" src="https://github-readme-stats.vercel.app/api?username=banchengkemeng&show_icons=true&hide_border=false" />
 
 <!---
 banchengkemeng/banchengkemeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
