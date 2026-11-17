@@ -3,7 +3,7 @@
 - 🌱 最近在学 Web3, Android
 - 📫 欢迎微信交流 banc000
 
-<img align="left" width="60%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=banchengkemeng&hide_border=false&show_icons=true" />
+<img align="left" width="60%" src="https://my-github-readme-stats-banchengs-projects.vercel.app/api?username=banchengkemeng&hide_border=false&show_icons=true" />
 
 <!---
 banchengkemeng/banchengkemeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
